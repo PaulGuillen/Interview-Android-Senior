@@ -104,5 +104,15 @@ _Protocolos de comunicacion segura mobile_
 - ¿Cómo optimizarías el rendimiento de composables que se recomponen con frecuencia?
 - ¿Qué es viewModel() en Jetpack Compose y cómo se utiliza?
 
+## Material Design
+- ¿Qué es Material Theming en Android?
+- ¿Cómo implementas un tema oscuro en una aplicación Android?
+- ¿Qué son los componentes de Material Design y por qué son importantes?
+- ¿Qué función cumple MaterialTheme en Jetpack Compose?
+- ¿Cómo puedes manejar el espaciado y la tipografía en Material Design?
+- ¿Cómo implementas transiciones y animaciones en Jetpack Compose siguiendo Material Design?
+- ¿Qué es el sistema de diseño responsivo de Material Design y cómo lo aplicas en Android?
 
+## Patrones de arquitectura
 
+  
