@@ -37,3 +37,20 @@
 - ¿Cómo manejarías una excepción dentro de una coroutine?
 - ¿Qué es CoroutineScope y cuál es su importancia en el manejo de coroutines?
 - ¿Cómo se cancela una coroutine y por qué es útil?
+
+## Gradle
+- ¿Qué es Gradle y cuál es su propósito en un proyecto Android?
+- ¿Cuál es la diferencia entre el archivo build.gradle de nivel de proyecto y el de nivel de módulo?
+- ¿Cómo se manejan las dependencias en Gradle?
+- ¿Qué es minifyEnabled en Gradle?
+- ¿Qué son los buildTypes y para qué se usan?
+- ¿Cómo puedes crear una tarea personalizada en Gradle?
+- ¿Qué es Proguard y cómo se integra en un proyecto Android?
+- ¿Cómo manejarías múltiples variantes de compilación con Gradle?
+
+## Patrones de diseño
+- https://refactoring.guru/es/design-patterns/java
+
+## LeetCode
+- https://leetcode.com/problemset/
+
