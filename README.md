@@ -53,4 +53,56 @@
 
 ## LeetCode
 - https://leetcode.com/problemset/
+  
+## Seguridad
+_Rooting_
+- ¿Qué es el rooting en Android y qué implica?
+- ¿Cuáles son los riesgos principales del rooting en un dispositivo Android?
+- ¿Qué es SafetyNet y cómo protege a las aplicaciones de dispositivos rooteados?
+- ¿Qué medidas implementa Android para detectar o bloquear dispositivos rooteados?
+- ¿Qué es SELinux y cuál es su papel en la seguridad de Android?
+- ¿Qué es Verified Boot y cómo protege el sistema operativo?
+- ¿Qué tipos de aplicaciones pueden dejar de funcionar en dispositivos rooteados?
+- ¿Por qué los fabricantes y Google desaconsejan el rooting?
+
+_SSL PINNING_
+- ¿Qué es SSL Pinning y por qué es importante?
+- ¿Cuál es la diferencia entre pinning de certificado y pinning de clave pública?
+- ¿Qué sucede si cambia el certificado del servidor en una aplicación con SSL Pinning?
+- ¿Cómo implementas SSL Pinning en Android utilizando OkHttp?
+- ¿Cuáles son las limitaciones del SSL Pinning?
+- ¿Cómo puedes implementar SSL Pinning de manera declarativa en Android?
+- ¿Qué es un ataque MITM y cómo protege SSL Pinning contra este tipo de ataque?
+
+_Anti Emuladores_
+- ¿Por qué es importante detectar emuladores en aplicaciones Android?
+- ¿Cómo puedes detectar un emulador en Android verificando las características del dispositivo?
+- ¿Qué archivos del sistema puedes verificar para detectar la presencia de un emulador?
+- ¿Cómo la arquitectura de la CPU puede ayudar a identificar si el dispositivo es un emulador?
+- ¿Qué direcciones IP típicas pueden indicar que una aplicación está ejecutándose en un emulador?
+- ¿Cómo puede el número de serie de un dispositivo ayudar a detectar un emulador?
+- ¿Cuáles son los riesgos de los falsos positivos al detectar emuladores y cómo los puedes evitar?
+
+_Protocolos de comunicacion segura mobile_
+- ¿Qué es HTTPS y por qué es importante en las aplicaciones móviles?
+- ¿Qué es TLS y por qué se recomienda usar TLS 1.2 o superior?
+- ¿En qué tipo de aplicaciones se utiliza DTLS y por qué?
+- ¿Qué es IPsec y en qué tipo de aplicaciones móviles se usa?
+- ¿Qué protocolo es comúnmente utilizado en aplicaciones de VoIP para asegurar las transmisiones de audio y video?
+
+## Jetpack Compose
+- ¿Qué diferencia hay entre una UI imperativa (XML) y una UI declarativa (Jetpack Compose)?
+- ¿Cómo se gestiona el estado en Jetpack Compose?
+- ¿Qué es remember y cuándo se debe utilizar?
+- ¿Cuál es la diferencia entre remember y rememberSaveable?
+- ¿Cómo descomponerías una interfaz compleja en Jetpack Compose?
+- ¿Qué es un Modifier en Jetpack Compose y cuál es su propósito?
+- ¿Cómo se maneja la navegación entre pantallas en Jetpack Compose?
+- ¿Qué son las animaciones en Jetpack Compose y cómo las implementas?
+- ¿Cómo se integran las vistas clásicas de Android (como TextView) en Jetpack Compose?
+- ¿Cómo se realizan pruebas de UI en Jetpack Compose?
+- ¿Cómo optimizarías el rendimiento de composables que se recomponen con frecuencia?
+- ¿Qué es viewModel() en Jetpack Compose y cómo se utiliza?
+
+
 
