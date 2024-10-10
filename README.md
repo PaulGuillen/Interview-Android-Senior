@@ -114,5 +114,43 @@ _Protocolos de comunicacion segura mobile_
 - ¿Qué es el sistema de diseño responsivo de Material Design y cómo lo aplicas en Android?
 
 ## Patrones de arquitectura
+_MVVM_
+- Qué es MVVM y cómo se diferencia de otros patrones como MVP o MVC?
+- ¿Cuál es el papel del ViewModel en el patrón MVVM?
+- ¿Qué es LiveData y por qué es útil en MVVM?
+- ¿Cómo sobrevive un ViewModel a los cambios de configuración, como la rotación de pantalla?
+- ¿Qué beneficios ofrece StateFlow sobre LiveData en el patrón MVVM?
+- ¿Cómo se prueba un ViewModel en el patrón MVVM?
+- ¿Qué problemas se pueden encontrar si no se sigue correctamente el patrón MVVM?
+
+_MVI_
+- ¿Qué es el patrón MVI y en qué se diferencia de MVVM?
+- ¿Qué es un Intent en el patrón MVI?
+- ¿Por qué el estado en MVI es inmutable?
+- ¿Cómo se implementa el manejo de eventos en MVI?
+- ¿Qué ventajas ofrece MVI en aplicaciones con estados complejos?
+- ¿Qué herramientas de Jetpack puedes usar para implementar MVI en Android?
+- ¿Cuándo no es recomendable utilizar MVI?
+
+## Base de datos
+_Room || SQLITE || DataStore_
+- ¿Cuál es la diferencia entre SQLite y Room?
+- ¿Cuándo usarías Room en lugar de SQLite?
+- ¿Para qué se utiliza DataStore y cómo mejora respecto a SharedPreferences?
+- ¿Qué es un DAO en Room?
+- ¿Qué ventajas ofrece Room sobre SQLite para la migración de esquemas?
+- ¿Qué tipos de DataStore existen y cuándo usarías cada uno?
+- ¿Cómo se implementa el manejo de migraciones en Room?
+- ¿Qué desventajas tiene SQLite frente a Room?
+
+## Google Services
+- ¿Qué es Google Play Services y cuál es su propósito en Android?
+- ¿Cuál es la diferencia entre Google Sign-In y OAuth tradicional?
+- ¿Para qué se utiliza Firebase Cloud Messaging (FCM)?
+-  ¿Cómo funciona la API de Fused Location Provider y qué ventajas ofrece?
+- ¿Qué es Google Analytics para Firebase y qué ventajas ofrece para los desarrolladores?
+- ¿Qué restricciones hay para utilizar Google Play Services en dispositivos Android?
+- ¿Qué es la Google Maps API y cómo se integra en una aplicación Android?
+
 
   
