@@ -114,6 +114,16 @@ _Protocolos de comunicacion segura mobile_
 - ¿Qué es el sistema de diseño responsivo de Material Design y cómo lo aplicas en Android?
 
 ## Patrones de arquitectura
+_Clean Architecture_
+- Cuáles son las capas principales de Clean Architecture y cuál es la responsabilidad de cada una?
+- ¿Qué son los Use Cases y por qué son fundamentales en Clean Architecture?
+- ¿Cómo implementas la inyección de dependencias en un proyecto con Clean Architecture?
+- ¿Por qué se recomienda usar StateFlow o SharedFlow en lugar de LiveData en la capa de Presentación?
+- ¿Cómo manejarías múltiples fuentes de datos (API remota, base de datos local, etc.) en la capa de Datos?
+- ¿Cómo pruebas un Use Case y un ViewModel en Clean Architecture?
+- ¿Qué problemas pueden surgir si no se respetan las dependencias entre capas en Clean Architecture?
+- ¿Cómo organizas un proyecto Android grande utilizando Clean Architecture con Jetpack Compose?
+
 _MVVM_
 - Qué es MVVM y cómo se diferencia de otros patrones como MVP o MVC?
 - ¿Cuál es el papel del ViewModel en el patrón MVVM?
